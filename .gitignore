@@ -221,6 +221,9 @@ __marimo__/
 
 .DS_Store
 
-# Exclude datasets pending redistribution review
-data/raw/
-data/processed/
+# Exclude raw and intermediate datasets
+data/raw/*
+data/processed/*
+
+# Allow the final dashboard dataset
+!data/processed/nba_dashboard_data.csv
