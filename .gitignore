@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+.DS_Store
+
+# Exclude datasets pending redistribution review
+data/raw/
+data/processed/
