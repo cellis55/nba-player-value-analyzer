@@ -4,8 +4,12 @@
 
 NBA Value Lab explores one question: **Which players produced more box-score value than expected for their reported 2024–25 salary?** It combines NBA regular-season statistics, salary data, a transparent weighted production score, and a descriptive salary-adjusted regression in an interactive Streamlit dashboard.
 
-**[Live dashboard — add URL after deployment](https://share.streamlit.io/)** · [Methodology](#methodology) · [Run locally](#run-locally)
+### Live Interactive Dashboard
 
+**[Launch NBA Value Lab](https://nba-value-lab.streamlit.app/)**
+
+Explore salary-adjusted NBA player value through interactive
+visualizations, player comparisons, and customizable filters.
 ![NBA Value Lab dashboard](assets/dashboard.png)
 
 ## Features
