@@ -10,6 +10,7 @@ NBA Value Lab explores one question: **Which players produced more box-score val
 
 Explore salary-adjusted NBA player value through interactive
 visualizations, player comparisons, and customizable filters.
+
 ![NBA Value Lab dashboard](assets/dashboard.png)
 
 ## Features
